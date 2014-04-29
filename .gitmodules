@@ -4,3 +4,63 @@
 [submodule "app/Plugin/Cofree"]
 	path = app/Plugin/Cofree
 	url = https://github.com/Cofreeweb/CakeCofreePlugin.git
+[submodule "app/Plugin/Acl"]
+	path = app/Plugin/Acl
+	url = https://github.com/Cofreeweb/CakeAclPlugin.git
+[submodule "app/Plugin/Comments"]
+	path = app/Plugin/Comments
+	url = https://github.com/Cofreeweb/comments.git
+[submodule "app/Plugin/I18n"]
+	path = app/Plugin/I18n
+	url = https://github.com/Cofreeweb/CakeI18nPlugin.git
+[submodule "app/Plugin/Upload"]
+	path = app/Plugin/Upload
+	url = https://github.com/Cofreeweb/CakeUploadPlugin.git
+[submodule "app/Plugin/Management"]
+	path = app/Plugin/Management
+	url = https://github.com/Cofreeweb/CakeManagementPlugin.git
+[submodule "app/Plugin/Search"]
+	path = app/Plugin/Search
+	url = https://github.com/Cofreeweb/search.git
+[submodule "app/Plugin/Geocoder"]
+	path = app/Plugin/Geocoder
+	url = https://github.com/Cofreeweb/CakeGeocoderPlugin.git
+[submodule "app/Plugin/AssetCompress"]
+	path = app/Plugin/AssetCompress
+	url = https://github.com/Cofreeweb/asset_compress.git
+[submodule "app/Vendor/scssphp"]
+	path = app/Vendor/scssphp
+	url = https://github.com/Cofreeweb/scssphp.git
+[submodule "app/Plugin/Rating"]
+	path = app/Plugin/Rating
+	url = https://github.com/Cofreeweb/CakeRatingPlugin.git
+[submodule "app/Plugin/Recaptcha"]
+	path = app/Plugin/Recaptcha
+	url = https://github.com/Cofreeweb/recaptcha.git
+[submodule "app/Plugin/Utility"]
+	path = app/Plugin/Utility
+	url = https://github.com/Cofreeweb/utility.git
+[submodule "app/Plugin/Entry"]
+	path = app/Plugin/Entry
+	url = https://github.com/Cofreeweb/CakeEntryPlugin.git
+[submodule "app/Plugin/Angular"]
+	path = app/Plugin/Angular
+	url = https://github.com/Cofreeweb/CakeAngularPlugin.git
+[submodule "app/Plugin/Section"]
+	path = app/Plugin/Section
+	url = https://github.com/Cofreeweb/CakeSectionPlugin.git
+[submodule "app/Plugin/Blog"]
+	path = app/Plugin/Blog
+	url = https://github.com/Cofreeweb/CakeBlogPlugin.git
+[submodule "app/Plugin/Mongodb"]
+	path = app/Plugin/Mongodb
+	url = https://github.com/Cofreeweb/CakeMongodbPlugin.git
+[submodule "app/Plugin/Configuration"]
+	path = app/Plugin/Configuration
+	url = https://github.com/Cofreeweb/CakeConfigurationPlugin.git
+[submodule "app/Plugin/Dictionary"]
+	path = app/Plugin/Dictionary
+	url = https://github.com/Cofreeweb/CakeDictionaryPlugin.git
+[submodule "app/Plugin/Fixturize"]
+	path = app/Plugin/Fixturize
+	url = https://github.com/Cofreeweb/cakephp-fixturize.git

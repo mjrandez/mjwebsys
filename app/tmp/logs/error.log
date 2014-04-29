@@ -1,0 +1,14 @@
+2014-04-29 10:26:21 Error: [MissingPluginException] Plugin Cofree could not be found.
+Exception Attributes: array (
+  'plugin' => 'Cofree',
+)
+Stack Trace:
+#0 /Users/marijose/Sites/websys/app/Config/bootstrap.php(101): CakePlugin::load('Cofree', Array)
+#1 /Users/marijose/Sites/websys/cakephp/lib/Cake/Core/Configure.php(92): include('/Users/marijose...')
+#2 /Users/marijose/Sites/websys/cakephp/lib/Cake/bootstrap.php(175): Configure::bootstrap(true)
+#3 /Users/marijose/Sites/websys/cakephp/lib/Cake/Console/ShellDispatcher.php(136): require('/Users/marijose...')
+#4 /Users/marijose/Sites/websys/cakephp/lib/Cake/Console/ShellDispatcher.php(98): ShellDispatcher->_bootstrap()
+#5 /Users/marijose/Sites/websys/cakephp/lib/Cake/Console/ShellDispatcher.php(54): ShellDispatcher->_initEnvironment()
+#6 /Users/marijose/Sites/websys/cakephp/lib/Cake/Console/ShellDispatcher.php(65): ShellDispatcher->__construct(Array)
+#7 /Users/marijose/Sites/websys/cakephp/lib/Cake/Console/cake.php(49): ShellDispatcher::run(Array)
+#8 {main}
